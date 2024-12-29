@@ -1,4 +1,4 @@
 # firstRepo
 This is my first git repository.
 <br>
-Author : Sushant Madane
+Author : Sushant Amir
